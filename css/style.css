@@ -1,0 +1,14 @@
+.circle{
+	height:100px;
+	width:100px;
+	position:fixed;
+	
+	transform: translate(-50%,-50%);
+	background:#12ed55;
+	border-radius: 50px;
+}
+
+.day{
+	height:50px;
+	border: 1px solid black;
+}
